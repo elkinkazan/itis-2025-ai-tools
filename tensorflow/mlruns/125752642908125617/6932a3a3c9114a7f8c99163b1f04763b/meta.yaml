@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alex/Projects/ai-tools/tensorflow/mlruns/125752642908125617/6932a3a3c9114a7f8c99163b1f04763b/artifacts
+end_time: 1683124032265
+entry_point_name: ''
+experiment_id: '125752642908125617'
+lifecycle_stage: active
+run_id: 6932a3a3c9114a7f8c99163b1f04763b
+run_name: Run_1
+run_uuid: 6932a3a3c9114a7f8c99163b1f04763b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683123711971
+status: 3
+tags: []
+user_id: alex

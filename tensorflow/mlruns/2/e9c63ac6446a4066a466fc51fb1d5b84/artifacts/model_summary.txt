@@ -1,0 +1,17 @@
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ layers_flatten (Flatten)    (None, 784)               0         
+                                                                 
+ layers_dense (Dense)        (None, 512)               401920    
+                                                                 
+ layers_dropout (Dropout)    (None, 512)               0         
+                                                                 
+ layers_dense_2 (Dense)      (None, 10)                5130      
+                                                                 
+=================================================================
+Total params: 407,050
+Trainable params: 407,050
+Non-trainable params: 0
+_________________________________________________________________

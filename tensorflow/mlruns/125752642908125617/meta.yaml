@@ -1,0 +1,6 @@
+artifact_location: file:///Users/alex/Projects/ai-tools/tensorflow/mlruns/125752642908125617
+creation_time: 1683123711845
+experiment_id: '125752642908125617'
+last_update_time: 1683123711845
+lifecycle_stage: active
+name: MNIST
